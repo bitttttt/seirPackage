@@ -1,0 +1,13 @@
+Package: seirPackage
+Type: Package
+Title: Epidemics SEIR Simulation Model
+Version: 0.1.0
+Author: Author
+Maintainer: Author <test@test.com>
+Description: Simulation of SEIR model of an epidemics.
+License: What license is it under?
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+Imports: deSolve, ggplot2, svglite,
+NeedsCompilation: no
+Packaged: 2024-05-16 06:47:58 UTC; 晓婷

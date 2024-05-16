@@ -1,0 +1,9 @@
+* installing *source* package 'seirPackage' ...
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+Error in library(devtools) : there is no package called 'devtools'
+Error: unable to load R code in package 'seirPackage'
+Execution halted
+ERROR: lazy loading failed for package 'seirPackage'
+* removing 'D:/R/课后作业3/seirPackage.Rcheck/seirPackage'
